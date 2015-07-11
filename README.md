@@ -1,5 +1,5 @@
 # DefenseTech
-Guns, tanks , missiles and all manner of destruction and immbolisation for the prupose of "self-defense" 
+Guns, tanks , missiles and all manner of destruction and immbolisation for the prupose of "self-defense" .
 Please refer to The Treasure Trove repo below and read the guidelines before accessing this database
 
 <H1> Introduction: </H1>
